@@ -1,4 +1,4 @@
-# Clustering of Citation Graph
+# Unsupervised Clustering of Citation Graph
 
 Project which expands on the third coursework of the Methods for Data Science module I took as part of my MSc Applied Mathematics at Imperial College London.
 
