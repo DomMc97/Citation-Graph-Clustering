@@ -15,3 +15,11 @@ We also have information about citations between papers. The citations define an
 ## Features
 
 The features notebook contains the K-means clustering of the feature matrix and an evaluation of the clusterings found.
+
+## Citations
+
+The citations notebook contains the analysis of the citation graph including the finding of centralities and the modularity maximised clustering of the graph.
+
+## Comparisons
+
+The comparisons notebook finds the similarity of the clusterings using the ARI, the AMI, a Sankey diagram and a contingency table.
